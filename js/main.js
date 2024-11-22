@@ -1,8 +1,8 @@
 let slideIndex = 1;
 const slides = [
     'https://placehold.co/600x400/EEE/31343C',
-    'https://placehold.co/600x400/EEE/31343C',
-    'https://placehold.co/600x400/EEE/31343C'
+    'https://placehold.co/600x400/FFF/31343C',
+    'https://placehold.co/600x400/000/31343C'
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
